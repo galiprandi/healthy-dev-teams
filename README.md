@@ -36,6 +36,3 @@ Una cultura saludable es aquella que crea y garantiza las condiciones necesarias
 
 Un equipo ágil es aquel que tiene la capacidad de readaptarse o mutar instantáneamente cuando es necesario. Esta capacidad es una característica crucial en startups y compañías de vanguardia, donde la velocidad y la adaptabilidad son esenciales para el éxito. Es importante destacar que la agilidad no es intrínseca a los equipos; más bien, es una habilidad que debe ser desarrollada y practicada con regularidad.
 
-### 4. ¿Qué es un equipo ágil?
-
-Un equipo ágil es aquel que tiene la capacidad de readaptarse o mutar instantáneamente cuando es necesario. Esta capacidad es una característica crucial en startups y compañías de vanguardia, donde la velocidad y la adaptabilidad son esenciales para el éxito. Es importante destacar que la agilidad no es intrínseca a los equipos; más bien, es una habilidad que debe ser desarrollada y practicada con regularidad.
