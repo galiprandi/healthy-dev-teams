@@ -36,3 +36,6 @@ Una cultura saludable es aquella que crea y garantiza las condiciones necesarias
 
 Un equipo ágil es aquel que tiene la capacidad de readaptarse o mutar instantáneamente cuando es necesario. Esta capacidad es una característica crucial en startups y compañías de vanguardia, donde la velocidad y la adaptabilidad son esenciales para el éxito. Es importante destacar que la agilidad no es intrínseca a los equipos; más bien, es una habilidad que debe ser desarrollada y practicada con regularidad.
 
+### 5. Tamaño de los Equipos de Desarrollo
+
+El tamaño de un equipo de desarrollo es un factor crucial, ya que equipos de diferentes dimensiones tienen características distintas y requieren estructuras y acciones específicas. En esta guía, nos centraremos principalmente en equipos pequeños y medianos, que van desde unos pocos miembros hasta un máximo de 100. Estos equipos suelen enfrentar desafíos y oportunidades únicas, y abordaremos estrategias y prácticas que sean relevantes para su contexto.
