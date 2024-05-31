@@ -32,3 +32,10 @@ Un miembro saludable es aquel que se siente satisfecho con su situación laboral
 ### 3. ¿Qué es una cultura saludable?
 
 Una cultura saludable es aquella que crea y garantiza las condiciones necesarias para que los equipos y los miembros saludables puedan desempeñarse sin fricciones ni obstáculos. Podemos pensar en la cultura como el sistema de seguridad de un edificio, que detecta y resuelve cualquier problema antes de que se agrave. Sin este sistema de protección, el caos siempre está al acecho.
+### 4. ¿Qué es un equipo ágil?
+
+Un equipo ágil es aquel que tiene la capacidad de readaptarse o mutar instantáneamente cuando es necesario. Esta capacidad es una característica crucial en startups y compañías de vanguardia, donde la velocidad y la adaptabilidad son esenciales para el éxito. Es importante destacar que la agilidad no es intrínseca a los equipos; más bien, es una habilidad que debe ser desarrollada y practicada con regularidad.
+
+### 4. ¿Qué es un equipo ágil?
+
+Un equipo ágil es aquel que tiene la capacidad de readaptarse o mutar instantáneamente cuando es necesario. Esta capacidad es una característica crucial en startups y compañías de vanguardia, donde la velocidad y la adaptabilidad son esenciales para el éxito. Es importante destacar que la agilidad no es intrínseca a los equipos; más bien, es una habilidad que debe ser desarrollada y practicada con regularidad.
