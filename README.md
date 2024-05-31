@@ -28,3 +28,7 @@ Un equipo saludable es aquel en el que cada miembro se siente afortunado de form
 ### 2. ¿Qué es un miembro saludable?
 
 Un miembro saludable es aquel que se siente satisfecho con su situación laboral y, especialmente, con las perspectivas de futuro que esta le ofrece. Para lograr esta satisfacción, es necesario que el miembro cuente con estabilidad emocional y oportunidades de crecimiento continuo. No todos los miembros de un equipo son necesariamente saludables, por lo que es responsabilidad del equipo de contratación seleccionar cuidadosamente a aquellos que lo sean y desvincular a aquellos que no lo sean. Una vez que se han reclutado miembros saludables, es fundamental mantener su bienestar. Esto se logra a través de acciones simples pero significativas, como proporcionarles un salario competitivo, tratarlos con respeto y apoyar su desarrollo profesional.
+
+### 3. ¿Qué es una cultura saludable?
+
+Una cultura saludable es aquella que crea y garantiza las condiciones necesarias para que los equipos y los miembros saludables puedan desempeñarse sin fricciones ni obstáculos. Podemos pensar en la cultura como el sistema de seguridad de un edificio, que detecta y resuelve cualquier problema antes de que se agrave. Sin este sistema de protección, el caos siempre está al acecho.
