@@ -24,3 +24,7 @@ En esta sección, definiremos varios conceptos que serán fundamentales para com
 ### 1. ¿Qué es un equipo saludable?
 
 Un equipo saludable es aquel en el que cada miembro se siente afortunado de formar parte, y donde se establecen vínculos personales que van más allá de lo puramente laboral, fortaleciendo así el sentido de pertenencia. Al igual que en los seres humanos, la salud de un equipo no es estática; puede experimentar momentos de excelencia y otros de dificultad. En estos casos, es fundamental detectar, diagnosticar y abordar los problemas de manera oportuna y decidida. La salud de un equipo no se puede medir con precisión numérica, sino más bien evaluando períodos de tiempo y utilizando una escala de sensaciones, como mala, buena o excelente, para su valoración.
+
+### 2. ¿Qué es un miembro saludable?
+
+Un miembro saludable es aquel que se siente satisfecho con su situación laboral y, especialmente, con las perspectivas de futuro que esta le ofrece. Para lograr esta satisfacción, es necesario que el miembro cuente con estabilidad emocional y oportunidades de crecimiento continuo. No todos los miembros de un equipo son necesariamente saludables, por lo que es responsabilidad del equipo de contratación seleccionar cuidadosamente a aquellos que lo sean y desvincular a aquellos que no lo sean. Una vez que se han reclutado miembros saludables, es fundamental mantener su bienestar. Esto se logra a través de acciones simples pero significativas, como proporcionarles un salario competitivo, tratarlos con respeto y apoyar su desarrollo profesional.
